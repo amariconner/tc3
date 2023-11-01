@@ -10,29 +10,29 @@
                 to this feature.</note></context>
         <steps>
             <step>
-                <cmd>Select Zoom from the left-hand course navigation menu.</cmd>
+                <cmd>Select <b>Zoom</b> from the left-hand course navigation menu.</cmd>
             </step>
             <step>
-                <cmd>Select Schedule a New Meeting. </cmd>
+                <cmd>Select <b>Schedule a New Meeting</b>. </cmd>
                 <info>
                     <ul id="ul_lvn_sc2_fzb">
                         <li>Follow the same steps to <xref
-                                    href="https://it.umn.edu/services-technologies/how-tos/zoom-schedule-meeting-invite-others-join"
-                                    format="html" scope="external">schedule a single Zoom
-                                    meeting</xref> that you would use outside of Canvas.</li>
+                                href="https://it.umn.edu/services-technologies/how-tos/zoom-schedule-meeting-invite-others-join"
+                                format="html" scope="external">schedule a single Zoom meeting</xref>
+                            that you would use outside of Canvas.</li>
                     </ul>
                 </info>
             </step>
             <step>
                 <cmd>To schedule a recurring meeting, select the <b>Recurring Meeting</b> checkbox.
                     You are able to set the following features:</cmd>
-                <info>
-                    <ul id="ul_tch_dd2_fzb">
+                <info><ul id="ul_tch_dd2_fzb">
                         <li>How often the meeting recurs</li>
                         <li>How many sessions, or occurrences, the meeting will have</li>
-                        <li> The date of the final occurrence</li>
+                        <li> The date of the final occurrence  </li>
                     </ul>
-                    <note id="note_zh1_m2z_fzb">When you schedule a recurring meeting, each
+                    <image href="../images/hosting_a_meeting_step_3.png" id="image_pdx_zbq_hzb"
+                        /><note id="note_zh1_m2z_fzb">When you schedule a recurring meeting, each
                         occurrence creates as an independent event. This means that if you need to
                         modify all instances of a meeting, you must edit each event
                         individually.</note>

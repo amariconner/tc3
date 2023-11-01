@@ -25,7 +25,8 @@
                 <cmd>Select the <b>Navigation</b> tab.</cmd>
             </step>
             <step>
-                <cmd>In the list of menu options,  </cmd>
+                <cmd>In the list of menu options, select the correct instance of Zoom for your
+                    account: </cmd>
                 <info>
                     <ul id="ul_wnz_bjd_fzb">
                         <li><b>Zoom</b> if you are NOT in the HCC.</li>
@@ -33,14 +34,13 @@
                             <p><b>Zoom for BAA</b> if you are in the HCC</p>
                             <ul id="ul_mcd_gjd_fzb">
                                 <li>
-                                    <p><b>NOTE:</b> Students whose BAA status differs froselect the
-                                        correct instance of Zoom for your account:m the instructor's
-                                        will not be able to use the Zoom integration in Canvas for
-                                        that particular course. We therefore recommend posting the
-                                        class Zoom meeting link in a public area of the Canvas
-                                        course in addition to scheduling a meeting directly within
-                                        the Zoom integration in Canvas to accommodate the students
-                                        with a different BAA status.</p>
+                                    <p><b>NOTE:</b> Students whose BAA status differs from the
+                                        instructor's will not be able to use the Zoom integration in
+                                        Canvas for that particular course. We therefore recommend
+                                        posting the class Zoom meeting link in a public area of the
+                                        Canvas course in addition to scheduling a meeting directly
+                                        within the Zoom integration in Canvas to accommodate the
+                                        students with a different BAA status.</p>
                                 </li>
                             </ul>
                         </li>
@@ -52,14 +52,17 @@
                 <info>
                     <ul>
                         <li>
-                            <p>Select Enable to move Zoom into your Navigation menu.  </p>
+                            <p>Select Enable to move Zoom into your Navigation menu. <image
+                                    href="../images/adding_zoom_step_7.png" id="image_zmk_lbq_hzb"/>
+                            </p>
                         </li>
                     </ul>
                 </info>
             </step>
             <step>
                 <cmd>At the bottom of the page, select <b>Save</b>. <i>Zoom now appears in the
-                        course navigation menu.</i></cmd>
+                        course navigation menu.</i><image href="../images/Adding_Zoom_step_8.png"
+                        id="image_fcd_nbq_hzb"/></cmd>
             </step>
             <step>
                 <cmd>When you access Zoom for the first time through the course navigation menu, you

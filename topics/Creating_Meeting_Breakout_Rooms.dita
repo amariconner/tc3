@@ -14,10 +14,11 @@
         </context>
         <steps>
             <step>
-                <cmd>Start your scheduled meeting</cmd>
+                <cmd>Start your scheduled meeting.</cmd>
             </step>
             <step>
-                <cmd>Click <b>Breakout Rooms Icon</b>:</cmd>
+                <cmd>Click the <b>Breakout Rooms Icon</b>: <image
+                        href="../images/creating_breakout_step_2.png" id="image_lt5_hbq_hzb"/></cmd>
             </step>
             <step>
                 <cmd>Select the number of rooms you would like to create, and how you would like to
