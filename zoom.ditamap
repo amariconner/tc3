@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Zoom</title>
+    <topicref href="topics/What_is_Zoom.dita">
+        <topicref href="topics/Compare_Zoom_and_Google_Hangouts_Meet.dita"/>
+    </topicref>
+    <topicref href="topics/Zoom_For_Canvas_Overview.dita">
+        <topicref href="topics/Adding_Zoom_to_Canvas_Courses.dita"/>
+        <topicref href="topics/Hosting_a_Zoom_Meeting_Within_Canvas.dita"/>
+        <topicref href="topics/Creating_Meeting_Breakout_Rooms.dita"/>
+    </topicref>
+</map>

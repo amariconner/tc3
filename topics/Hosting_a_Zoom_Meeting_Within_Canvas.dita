@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Host a Zoom Meeting Within Canvas</title>
+    <shortdesc>Follow these steps as an instructor in order to host a Zoom meeting within a Canvas course.</shortdesc>
+    <taskbody>
+        <context>After adding Zoom to a course, you can access the Zoom tool from the course
+            navigation menu. Then you can schedule a meeting.<note>You must have instructor access
+                to Canvas in order to create or host your own meetings; students do not have access
+                to this feature.</note></context>
+        <steps>
+            <step>
+                <cmd>Select Zoom from the left-hand course navigation menu.</cmd>
+            </step>
+            <step>
+                <cmd>Select Schedule a New Meeting. </cmd>
+                <info>
+                    <ul id="ul_lvn_sc2_fzb">
+                        <li>Follow the same steps to <xref
+                                    href="https://it.umn.edu/services-technologies/how-tos/zoom-schedule-meeting-invite-others-join"
+                                    format="html" scope="external">schedule a single Zoom
+                                    meeting</xref> that you would use outside of Canvas.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>To schedule a recurring meeting, select the <b>Recurring Meeting</b> checkbox.
+                    You are able to set the following features:</cmd>
+                <info>
+                    <ul id="ul_tch_dd2_fzb">
+                        <li>How often the meeting recurs</li>
+                        <li>How many sessions, or occurrences, the meeting will have</li>
+                        <li> The date of the final occurrence</li>
+                    </ul>
+                    <note id="note_zh1_m2z_fzb">When you schedule a recurring meeting, each
+                        occurrence creates as an independent event. This means that if you need to
+                        modify all instances of a meeting, you must edit each event
+                        individually.</note>
+                </info>
+            </step>         
+        </steps>
+    </taskbody>
+</task>

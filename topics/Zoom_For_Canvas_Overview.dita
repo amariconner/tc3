@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_lcs_wtz_fzb">
+    <title>Zoom for Canvas Overview</title>
+    <shortdesc>The Zoom for Canvas Integration allows UMN faculty and staff to use the following
+        Zoom features within Canvas.</shortdesc>
+    <refbody>
+        <example>
+            <ul id="ul_ert_j5z_fzb">
+                <li>Schedule Zoom meetings</li>
+                <li>
+                    <p>List upcoming Zoom meetings</p>
+                </li>
+                <li>
+                    <p>Join Zoom meetings</p>
+                </li>
+                <li>
+                    <p>Create Calendar events for Zoom meetings</p>
+                </li>
+                <li>
+                    <p>Create Canvas Conversations about Zoom meetings</p>
+                </li>
+                <li>
+                    <p>Record Zoom meetings to the cloud (for non-HCC account holders only)</p>
+                </li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

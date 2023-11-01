@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Adding_Zoom_to_Canvas_Courses">
+    <title>Adding Zoom to Canvas Courses</title>
+    <shortdesc>Follow these steps to add the Zoom integration to each Canvas course you want to use
+        with Zoom.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Log into <xref href="http://canvas.umn.edu" format="html" scope="external"
+                        >zoom.umn.edu</xref></cmd>
+            </step>
+            <step>
+                <cmd>In the same browser, log into <xref href="http://canvas.umn.edu" format="html"
+                        scope="external">canvas.umn.edu</xref></cmd>
+            </step>
+            <step>
+                <cmd>Select the course you would like to add Zoom to.</cmd>
+            </step>
+            <step>
+                <cmd>In the course navigation menu on the left-hand side of the screen, select
+                        <b>Settings</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the <b>Navigation</b> tab.</cmd>
+            </step>
+            <step>
+                <cmd>In the list of menu options,  </cmd>
+                <info>
+                    <ul id="ul_wnz_bjd_fzb">
+                        <li><b>Zoom</b> if you are NOT in the HCC.</li>
+                        <li>
+                            <p><b>Zoom for BAA</b> if you are in the HCC</p>
+                            <ul id="ul_mcd_gjd_fzb">
+                                <li>
+                                    <p><b>NOTE:</b> Students whose BAA status differs froselect the
+                                        correct instance of Zoom for your account:m the instructor's
+                                        will not be able to use the Zoom integration in Canvas for
+                                        that particular course. We therefore recommend posting the
+                                        class Zoom meeting link in a public area of the Canvas
+                                        course in addition to scheduling a meeting directly within
+                                        the Zoom integration in Canvas to accommodate the students
+                                        with a different BAA status.</p>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Click the <b>Settings</b> icon.</cmd>
+                <info>
+                    <ul>
+                        <li>
+                            <p>Select Enable to move Zoom into your Navigation menu.  </p>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>At the bottom of the page, select <b>Save</b>. <i>Zoom now appears in the
+                        course navigation menu.</i></cmd>
+            </step>
+            <step>
+                <cmd>When you access Zoom for the first time through the course navigation menu, you
+                    will need to select the <b>Authorize</b> option in order to proceed.</cmd>
+            </step>
+        </steps>
+       
+    </taskbody>
+</task>

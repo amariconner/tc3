@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Creating_Meeting_Breakout_Rooms">
+    <title>Creating Meeting Breakout Rooms</title>
+    <shortdesc>Follow these instructions to use the breakout rooms feature in Zoom.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Breakout rooms allow you to split your Zoom meeting into separate sessions. The
+                meeting host or co-host can split the participants of the meeting into these
+                separate sessions automatically or manually, or they can allow participants to
+                select and enter breakout sessions as they please. <note id="note_zgp_bf2_fzb">The
+                    Zoom for Canvas Integration does not allow faculty and staff to create breakout
+                    rooms before the Zoom meeting within Canvas.</note></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Start your scheduled meeting</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Breakout Rooms Icon</b>:</cmd>
+            </step>
+            <step>
+                <cmd>Select the number of rooms you would like to create, and how you would like to
+                    assign your participants to those rooms:</cmd>
+                <info>
+                    <ul id="ul_vjz_kqz_fzb">
+                        <li>
+                            <p><b>Assign Automatically: </b>Let Zoom split your participants up
+                                evenly into each of the rooms.</p>
+                        </li>
+                        <li>
+                            <p><b>Assign manually</b>: Choose which participants you would like in
+                                each room.</p>
+                        </li>
+                        <li>
+                            <p><b>Let participants choose room</b>: <xref
+                                    href="https://support.zoom.us/hc/en-us/articles/115005769646"
+                                    format="html" scope="external">Participants can select and enter
+                                    rooms</xref> on their own. </p>
+                        </li>
+                        <li>
+                            <p><b>Load pre-assigned rooms</b>: Choose from pre-assignments or <xref
+                                    href="https://support.zoom.us/hc/en-us/articles/206476313#h_01FYFEGX4RFTH0WCM92SW9KD0P"
+                                    format="html" scope="external">previously saved
+                                    assignments</xref>. </p>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Click <b>Create</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Your rooms will be created, but will not start automatically. You can manage
+                    the rooms prior to starting them by clicking <b>Options </b>(on Windows) or the
+                        <b>gear icon</b> (on macOS) to view additional breakout room options.</cmd>
+            </step>
+            <step>
+                <cmd>Click<b>Open All Rooms</b> to start the breakout rooms.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+      
+       <link href="https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms"
+           format="html" scope="external"> <linktext>Enabling Meeting Breakout Rooms</linktext></link>
+    </related-links>
+</task>

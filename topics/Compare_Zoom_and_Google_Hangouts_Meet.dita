@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_jlc_wh2_fzb">
+    <title>When to Use Zoom vs Google Hangouts Meet</title>
+    <shortdesc>Compare the features of Zoom (<xref href="https://umn.zoom.us/" format="html"
+            scope="external">umn.zoom.us</xref>) and Google Hangouts Meet (<xref
+            href="https://meet.google.com/" format="html" scope="external">meet.google.com</xref>)
+        to help you decide which tool is best for your needs. Google Hangouts Meet is the simplest
+        tool and interface for online meetings, but Zoom offers many additional features. </shortdesc>
+    <refbody>
+        <section>
+            <title>Best Use Practices for Zoom and Google Hangouts Meet</title>
+        </section>
+        <example>
+                <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_jln_1y2_fzb">
+                    <sthead>
+                        <stentry>Zoom</stentry>
+                        <stentry>Google Hangouts</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>Professional meetings and interviews that you want
+                            recorded</stentry>
+                        <stentry>smaller/informal meetings</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>Hosting webinars</stentry>
+                        <stentry>One-on-one meetings or interviews</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>Large meetings</stentry>
+                        <stentry>-</stentry>
+                    </strow>
+                </simpletable>
+        </example>
+        <section>
+            <title>Features of Zoom and Google Hangouts Meet</title>
+        </section>       
+        <example>
+               
+                <simpletable frame="all" relcolwidth="1* 1* 1*" id="simpletable_fzt_bcf_fzb">
+                    <sthead>
+                        <stentry/>
+                        <stentry>Zoom</stentry>
+                        <stentry>Google Hangouts</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry><b>Recording Capability</b></stentry>
+                        <stentry>Yes</stentry>
+                        <stentry>Yes</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><b>Screen Sharing</b></stentry>
+                        <stentry>More than one at a time</stentry>
+                        <stentry>Only one at a time</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><b>Accessibility</b></stentry>
+                        <stentry>Automatic live transcription</stentry>
+                        <stentry>Automatic captioning</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><b>Max # of participants</b></stentry>
+                        <stentry>Up to 300 in <b>meetings</b>; 1000 in <b>webinars</b></stentry>
+                        <stentry>Up to 100</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><b>Hosting Permissions</b></stentry>
+                        <stentry>All faculty, staff, and students can host <b>meetings</b>; only
+                            faculty and staff can host <b>webinars</b></stentry>
+                        <stentry>Faculty, staff, and students can host a meetings</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><b>Attendant Permissions</b></stentry>
+                        <stentry>Anyone with the link</stentry>
+                        <stentry>Anyone with the link</stentry>
+                    </strow>
+                </simpletable>
+        </example>
+     </refbody>
+</reference>
