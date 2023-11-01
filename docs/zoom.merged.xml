@@ -108,7 +108,8 @@
                 <cmd class="- topic/ph task/cmd ">Select the <b class="+ topic/ph hi-d/b ">Navigation</b> tab.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">In the list of menu options,  </cmd>
+                <cmd class="- topic/ph task/cmd ">In the list of menu options, select the correct instance of Zoom for your
+                    account: </cmd>
                 <info class="- topic/itemgroup task/info ">
                     <ul class="- topic/ul " id="unique_4_Connect_42_ul_wnz_bjd_fzb" nd:nd-id="ul_wnz_bjd_fzb">
                         <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Zoom</b> if you are NOT in the HCC.</li>
@@ -116,14 +117,13 @@
                             <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Zoom for BAA</b> if you are in the HCC</p>
                             <ul class="- topic/ul " id="unique_4_Connect_42_ul_mcd_gjd_fzb" nd:nd-id="ul_mcd_gjd_fzb">
                                 <li class="- topic/li ">
-                                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">NOTE:</b> Students whose BAA status differs froselect the
-                                        correct instance of Zoom for your account:m the instructor's
-                                        will not be able to use the Zoom integration in Canvas for
-                                        that particular course. We therefore recommend posting the
-                                        class Zoom meeting link in a public area of the Canvas
-                                        course in addition to scheduling a meeting directly within
-                                        the Zoom integration in Canvas to accommodate the students
-                                        with a different BAA status.</p>
+                                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">NOTE:</b> Students whose BAA status differs from the
+                                        instructor's will not be able to use the Zoom integration in
+                                        Canvas for that particular course. We therefore recommend
+                                        posting the class Zoom meeting link in a public area of the
+                                        Canvas course in addition to scheduling a meeting directly
+                                        within the Zoom integration in Canvas to accommodate the
+                                        students with a different BAA status.</p>
                                 </li>
                             </ul>
                         </li>
@@ -135,14 +135,15 @@
                 <info class="- topic/itemgroup task/info ">
                     <ul class="- topic/ul ">
                         <li class="- topic/li ">
-                            <p class="- topic/p ">Select Enable to move Zoom into your Navigation menu.  </p>
+                            <p class="- topic/p ">Select Enable to move Zoom into your Navigation menu. <image class="- topic/image " dita-ot:image-width="482" dita-ot:image-height="178" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/adding_zoom_step_7.png" id="unique_4_Connect_42_image_zmk_lbq_hzb" nd:nd-id="image_zmk_lbq_hzb" placement="inline"/>
+                            </p>
                         </li>
                     </ul>
                 </info>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">At the bottom of the page, select <b class="+ topic/ph hi-d/b ">Save</b>. <i class="+ topic/ph hi-d/i ">Zoom now appears in the
-                        course navigation menu.</i></cmd>
+                        course navigation menu.</i><image class="- topic/image " dita-ot:image-width="450" dita-ot:image-height="221" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/Adding_Zoom_step_8.png" id="unique_4_Connect_42_image_fcd_nbq_hzb" nd:nd-id="image_fcd_nbq_hzb" placement="inline"/></cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">When you access Zoom for the first time through the course navigation menu, you
@@ -161,27 +162,26 @@
                 to this feature.</note></context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Select Zoom from the left-hand course navigation menu.</cmd>
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Zoom</b> from the left-hand course navigation menu.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Select Schedule a New Meeting. </cmd>
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Schedule a New Meeting</b>. </cmd>
                 <info class="- topic/itemgroup task/info ">
                     <ul class="- topic/ul " id="unique_5_Connect_42_ul_lvn_sc2_fzb" nd:nd-id="ul_lvn_sc2_fzb">
-                        <li class="- topic/li ">Follow the same steps to <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/zoom-schedule-meeting-invite-others-join" scope="external"><?ditaot usertext?>schedule a single Zoom
-                                    meeting</xref> that you would use outside of Canvas.</li>
+                        <li class="- topic/li ">Follow the same steps to <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/zoom-schedule-meeting-invite-others-join" scope="external"><?ditaot usertext?>schedule a single Zoom meeting</xref>
+                            that you would use outside of Canvas.</li>
                     </ul>
                 </info>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">To schedule a recurring meeting, select the <b class="+ topic/ph hi-d/b ">Recurring Meeting</b> checkbox.
                     You are able to set the following features:</cmd>
-                <info class="- topic/itemgroup task/info ">
-                    <ul class="- topic/ul " id="unique_5_Connect_42_ul_tch_dd2_fzb" nd:nd-id="ul_tch_dd2_fzb">
+                <info class="- topic/itemgroup task/info "><ul class="- topic/ul " id="unique_5_Connect_42_ul_tch_dd2_fzb" nd:nd-id="ul_tch_dd2_fzb">
                         <li class="- topic/li ">How often the meeting recurs</li>
                         <li class="- topic/li ">How many sessions, or occurrences, the meeting will have</li>
-                        <li class="- topic/li "> The date of the final occurrence</li>
+                        <li class="- topic/li "> The date of the final occurrence  </li>
                     </ul>
-                    <note class="- topic/note " id="unique_5_Connect_42_note_zh1_m2z_fzb" nd:nd-id="note_zh1_m2z_fzb">When you schedule a recurring meeting, each
+                    <image class="- topic/image " dita-ot:image-width="400" dita-ot:image-height="268" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/hosting_a_meeting_step_3.png" id="unique_5_Connect_42_image_pdx_zbq_hzb" nd:nd-id="image_pdx_zbq_hzb" placement="inline"/><note class="- topic/note " id="unique_5_Connect_42_note_zh1_m2z_fzb" nd:nd-id="note_zh1_m2z_fzb">When you schedule a recurring meeting, each
                         occurrence creates as an independent event. This means that if you need to
                         modify all instances of a meeting, you must edit each event
                         individually.</note>
@@ -203,10 +203,10 @@
         </context>
         <steps class="- topic/ol task/steps ">
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Start your scheduled meeting</cmd>
+                <cmd class="- topic/ph task/cmd ">Start your scheduled meeting.</cmd>
             </step>
             <step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Breakout Rooms Icon</b>:</cmd>
+                <cmd class="- topic/ph task/cmd ">Click the <b class="+ topic/ph hi-d/b ">Breakout Rooms Icon</b>: <image class="- topic/image " dita-ot:image-width="29" dita-ot:image-height="30" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/creating_breakout_step_2.png" id="unique_6_Connect_42_image_lt5_hbq_hzb" nd:nd-id="image_lt5_hbq_hzb" placement="inline"/></cmd>
             </step>
             <step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Select the number of rooms you would like to create, and how you would like to

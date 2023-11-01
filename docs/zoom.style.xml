@@ -274,7 +274,9 @@
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Navigation</strong> tab.</span>
                                             </li>
                                             <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">In the list of menu options, </span>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">In the list of menu options,
+                                                  select the correct instance of Zoom for your
+                                                  account: </span>
                                                 <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
                                                   <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_4_Connect_42_ul_wnz_bjd_fzb" nd:nd-id="ul_wnz_bjd_fzb">
                                                   <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Zoom</strong> if you are NOT in the HCC.</li>
@@ -284,9 +286,8 @@
                                                   <ul class="- topic/ul ul" css:display="block" css:list-style-type="square" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_4_Connect_42_ul_mcd_gjd_fzb" nd:nd-id="ul_mcd_gjd_fzb">
                                                   <li class="- topic/li li" css:display="list-item">
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">NOTE:</strong> Students whose BAA status differs
-                                                  froselect the correct instance of Zoom for your
-                                                  account:m the instructor's will not be able to use
-                                                  the Zoom integration in Canvas for that particular
+                                                  from the instructor's will not be able to use the
+                                                  Zoom integration in Canvas for that particular
                                                   course. We therefore recommend posting the class
                                                   Zoom meeting link in a public area of the Canvas
                                                   course in addition to scheduling a meeting
@@ -306,6 +307,7 @@
                                                   <li class="- topic/li li" css:display="list-item">
                                                   <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Select
                                                   Enable to move Zoom into your Navigation menu.
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" dita-ot:image-height="178" dita-ot:image-width="482" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/adding_zoom_step_7.png" id="unique_4_Connect_42_image_zmk_lbq_hzb" nd:nd-id="image_zmk_lbq_hzb" placement="inline" src="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/adding_zoom_step_7.png"><css:content-on-element><css:uri extracted-image-height="178" extracted-image-width="482" uri="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/adding_zoom_step_7.png"/></css:content-on-element></img>
                                                   </p>
                                                   </li>
                                                   </ul>
@@ -315,7 +317,7 @@
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">At the bottom of the page,
                                                   select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save</strong>. <em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">Zoom
                                                   now appears in the course navigation
-                                                  menu.</em></span>
+                                                  menu.</em><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" dita-ot:image-height="221" dita-ot:image-width="450" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/Adding_Zoom_step_8.png" id="unique_4_Connect_42_image_fcd_nbq_hzb" nd:nd-id="image_fcd_nbq_hzb" placement="inline" src="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/Adding_Zoom_step_8.png"><css:content-on-element><css:uri extracted-image-height="221" extracted-image-width="450" uri="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/Adding_Zoom_step_8.png"/></css:content-on-element></img></span>
                                             </li>
                                             <li class="- topic/li task/step li step" css:display="list-item">
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">When you access Zoom for the
@@ -344,12 +346,11 @@
                                     <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
                                         <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
                                             <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select Zoom from the
-                                                  left-hand course navigation menu.</span>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Zoom</strong> from the left-hand course
+                                                  navigation menu.</span>
                                             </li>
                                             <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select Schedule a New
-                                                  Meeting. </span>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Schedule a New Meeting</strong>. </span>
                                                 <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
                                                   <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_5_Connect_42_ul_lvn_sc2_fzb" nd:nd-id="ul_lvn_sc2_fzb">
                                                   <li class="- topic/li li" css:display="list-item">Follow the same steps to <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://it.umn.edu/services-technologies/how-tos/zoom-schedule-meeting-invite-others-join" format="html" href="https://it.umn.edu/services-technologies/how-tos/zoom-schedule-meeting-invite-others-join" rel="external noopener" scope="external" target="_blank">schedule a single Zoom
@@ -362,15 +363,14 @@
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">To schedule a recurring
                                                   meeting, select the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Recurring Meeting</strong> checkbox. You are able
                                                   to set the following features:</span>
-                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
-                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_5_Connect_42_ul_tch_dd2_fzb" nd:nd-id="ul_tch_dd2_fzb">
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_5_Connect_42_ul_tch_dd2_fzb" nd:nd-id="ul_tch_dd2_fzb">
                                                   <li class="- topic/li li" css:display="list-item">How often the meeting recurs</li>
                                                   <li class="- topic/li li" css:display="list-item">How many sessions, or occurrences, the meeting
                                                   will have</li>
                                                   <li class="- topic/li li" css:display="list-item">
-                                                  The date of the final occurrence</li>
+                                                  The date of the final occurrence </li>
                                                   </ul>
-                                                  <div class="- topic/note note note note_note" css:background-color="rgba(0 , 120 , 160 , 0.09)" css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/7905db3e6db01ebd2b30.svg')" css:background-position="0.5em 0.5em" css:background-repeat="no-repeat" css:border-bottom-color="rgb(0 , 120 , 160)" css:border-bottom-left-radius="11px" css:border-bottom-right-radius="11px" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(0 , 120 , 160)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(0 , 120 , 160)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(0 , 120 , 160)" css:border-top-left-radius="11px" css:border-top-right-radius="11px" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Note" css:padding-bottom="0.75em" css:padding-left="3em" css:padding-right="0.5em" css:padding-top="0.75em" id="unique_5_Connect_42_note_zh1_m2z_fzb" nd:nd-id="note_zh1_m2z_fzb"><span class="note__title" css:display="block" css:font-weight="700" css:page-break-after="avoid">Note:</span> When you schedule a recurring
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" dita-ot:image-height="268" dita-ot:image-width="400" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/hosting_a_meeting_step_3.png" id="unique_5_Connect_42_image_pdx_zbq_hzb" nd:nd-id="image_pdx_zbq_hzb" placement="inline" src="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/hosting_a_meeting_step_3.png"><css:content-on-element><css:uri extracted-image-height="268" extracted-image-width="400" uri="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/hosting_a_meeting_step_3.png"/></css:content-on-element></img><div class="- topic/note note note note_note" css:background-color="rgba(0 , 120 , 160 , 0.09)" css:background-image="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/7905db3e6db01ebd2b30.svg')" css:background-position="0.5em 0.5em" css:background-repeat="no-repeat" css:border-bottom-color="rgb(0 , 120 , 160)" css:border-bottom-left-radius="11px" css:border-bottom-right-radius="11px" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(0 , 120 , 160)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(0 , 120 , 160)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(0 , 120 , 160)" css:border-top-left-radius="11px" css:border-top-right-radius="11px" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Note" css:padding-bottom="0.75em" css:padding-left="3em" css:padding-right="0.5em" css:padding-top="0.75em" id="unique_5_Connect_42_note_zh1_m2z_fzb" nd:nd-id="note_zh1_m2z_fzb"><span class="note__title" css:display="block" css:font-weight="700" css:page-break-after="avoid">Note:</span> When you schedule a recurring
                                                   meeting, each occurrence creates as an independent
                                                   event. This means that if you need to modify all
                                                   instances of a meeting, you must edit each event
@@ -401,10 +401,10 @@
                                         <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
                                             <li class="- topic/li task/step li step" css:display="list-item">
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">Start your scheduled
-                                                  meeting</span>
+                                                  meeting.</span>
                                             </li>
                                             <li class="- topic/li task/step li step" css:display="list-item">
-                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Breakout Rooms Icon</strong>:</span>
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Click the <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Breakout Rooms Icon</strong>: <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" dita-ot:image-height="30" dita-ot:image-width="29" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/creating_breakout_step_2.png" id="unique_6_Connect_42_image_lt5_hbq_hzb" nd:nd-id="image_lt5_hbq_hzb" placement="inline" src="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/creating_breakout_step_2.png"><css:content-on-element><css:uri extracted-image-height="30" extracted-image-width="29" uri="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/creating_breakout_step_2.png"/></css:content-on-element></img></span>
                                             </li>
                                             <li class="- topic/li task/step li step" css:display="list-item">
                                                 <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the number of rooms
