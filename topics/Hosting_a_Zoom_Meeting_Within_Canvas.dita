@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="Untitled">
-    <title>Host a Zoom Meeting Within Canvas</title>
+    <title>Hosting a Zoom Meeting Within Canvas</title>
     <shortdesc>Follow these steps as an instructor in order to host a Zoom meeting within a Canvas course.</shortdesc>
     <taskbody>
         <context>After adding Zoom to a course, you can access the Zoom tool from the course
@@ -29,12 +29,12 @@
                 <info><ul id="ul_tch_dd2_fzb">
                         <li>How often the meeting recurs</li>
                         <li>How many sessions, or occurrences, the meeting will have</li>
-                        <li> The date of the final occurrence  </li>
+                        <li> The date of the final occurrence </li>
                     </ul>
-                    <image href="../images/hosting_a_meeting_step_3.png" id="image_pdx_zbq_hzb"
-                        /><note id="note_zh1_m2z_fzb">When you schedule a recurring meeting, each
-                        occurrence creates as an independent event. This means that if you need to
-                        modify all instances of a meeting, you must edit each event
+                    <image href="../images/hosting_a_meeting_step_3.png" id="image_pdx_zbq_hzb"/>
+                    <note id="note_zh1_m2z_fzb" type="notice">When you schedule a recurring meeting,
+                        each occurrence creates as an independent event. This means that if you need
+                        to modify all instances of a meeting, you must edit each event
                         individually.</note>
                 </info>
             </step>         

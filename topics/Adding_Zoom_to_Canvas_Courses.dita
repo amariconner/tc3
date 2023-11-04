@@ -51,18 +51,17 @@
                 <cmd>Click the <b>Settings</b> icon.</cmd>
                 <info>
                     <ul>
-                        <li>
-                            <p>Select Enable to move Zoom into your Navigation menu. <image
-                                    href="../images/adding_zoom_step_7.png" id="image_zmk_lbq_hzb"/>
-                            </p>
+                        <li> Select Enable to move Zoom into your Navigation menu.  <image
+                                href="../images/adding_zoom_step_7.png" id="image_zmk_lbq_hzb"/>
                         </li>
+                      
                     </ul>
                 </info>
             </step>
             <step>
                 <cmd>At the bottom of the page, select <b>Save</b>. <i>Zoom now appears in the
                         course navigation menu.</i><image href="../images/Adding_Zoom_step_8.png"
-                        id="image_fcd_nbq_hzb"/></cmd>
+                        id="image_fj1_tjf_3zb"/></cmd>
             </step>
             <step>
                 <cmd>When you access Zoom for the first time through the course navigation menu, you

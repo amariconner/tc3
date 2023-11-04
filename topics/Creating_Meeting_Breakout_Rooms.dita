@@ -52,9 +52,9 @@
                 <cmd>Click <b>Create</b>.</cmd>
             </step>
             <step>
-                <cmd>Your rooms will be created, but will not start automatically. You can manage
-                    the rooms prior to starting them by clicking <b>Options </b>(on Windows) or the
-                        <b>gear icon</b> (on macOS) to view additional breakout room options.</cmd>
+                <cmd> Manage the rooms prior to starting them by clicking <b>Options </b>(on
+                    Windows) or the <b>gear icon</b> (on macOS) to view additional breakout room
+                    options (your rooms will be created, but will not start automatically).</cmd>
             </step>
             <step>
                 <cmd>Click<b>Open All Rooms</b> to start the breakout rooms.</cmd>

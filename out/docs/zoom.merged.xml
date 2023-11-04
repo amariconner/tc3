@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/amari/OneDrive/GitHub/tc3/zoom.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Zoom</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Zoom</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="teach_meet_and_learn_with_Zoom"><resourceid appid="teach_meet_and_learn_with_Zoom" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Teach, Meet, and Learn with Zoom</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zoom is an online video conferencing system now available to the UMN community!</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="when_to_use_zoom_vs_googlehangouts"><resourceid appid="when_to_use_zoom_vs_googlehangouts" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">When to Use Zoom vs Google Hangouts Meet</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Compare the best use practices for Zoom and Google Hangouts Meet to decide when to use each tool.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_jlc_wh2_fzb"><resourceid appid="reference_jlc_wh2_fzb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Features of Zoom and Google Hangouts Meet</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Compare the features of Zoom (<xref class="- topic/xref " format="html" href="https://umn.zoom.us/" scope="external">umn.zoom.us</xref>) and Google Hangouts Meet (<xref class="- topic/xref " format="html" href="https://meet.google.com/" scope="external">meet.google.com</xref>)         to  decide which tool is best for your needs. Google Hangouts Meet is the simplest tool and         interface for online meetings, but Zoom offers many additional features. </shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_lcs_wtz_fzb"><resourceid appid="reference_lcs_wtz_fzb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Zoom for Canvas Overview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The Zoom for Canvas Integration allows UMN faculty and staff to use the following         Zoom features within Canvas.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Adding_Zoom_to_Canvas_Courses"><resourceid appid="Adding_Zoom_to_Canvas_Courses" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Adding Zoom to Canvas Courses</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Follow these steps to add the Zoom integration to each Canvas course you want to use         with Zoom.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Hosting a Zoom Meeting Within Canvas</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Follow these steps as an instructor in order to host a Zoom meeting within a Canvas course.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="Creating_Meeting_Breakout_Rooms"><resourceid appid="Creating_Meeting_Breakout_Rooms" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Creating Meeting Breakout Rooms</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Follow these instructions to use the breakout rooms feature in Zoom.</shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="teach_meet_and_learn_with_Zoom" oid="teach_meet_and_learn_with_Zoom" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Teach, Meet, and Learn with Zoom</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zoom is an online video conferencing system now available to the UMN community!</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Zoom can be used by teachers to hold class meetings, by teachers/students for video
+            conference meetings, and by students for learning tasks. If you are using Zoom for more
+            advanced tasks, such as presenting at meetings, scheduling meetings, or acting as
+            support for Zoom events and webinars, check out <xref class="- topic/xref " format="html" href="https://it.umn.edu/self-help-guide/zoom-schedule-support-present-online" scope="external"><?ditaot usertext?>Schedule, Support, and Present</xref>.</p>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="when_to_use_zoom_vs_googlehangouts" oid="when_to_use_zoom_vs_googlehangouts" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">When to Use Zoom vs Google Hangouts Meet</ph></title>
+    <shortdesc class="- topic/shortdesc ">Compare the best use practices for Zoom and Google Hangouts Meet to decide when to use each tool.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <simpletable class="- topic/simpletable " frame="all" id="unique_2_Connect_42_simpletable_jln_1y2_fzb" nd:nd-id="simpletable_jln_1y2_fzb" relcolwidth="1* 1*">
+                <sthead class="- topic/sthead ">
+                    <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">Zoom</stentry>
+                    <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">Google Hangouts</stentry>
+                </sthead>
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">Professional meetings and interviews that you want
+                        recorded</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">Smaller/informal meetings</stentry></strow>
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">Webinars</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">One-on-one meetings or interviews</stentry></strow>
+                <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">Large meetings</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">-</stentry></strow>
+            </simpletable>
+        </example>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="reference_jlc_wh2_fzb" oid="reference_jlc_wh2_fzb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Features of Zoom and Google Hangouts Meet</ph></title>
+    <shortdesc class="- topic/shortdesc ">Compare the features of Zoom (<xref class="- topic/xref " format="html" href="https://umn.zoom.us/" scope="external"><?ditaot usertext?>umn.zoom.us</xref>) and Google Hangouts Meet (<xref class="- topic/xref " format="html" href="https://meet.google.com/" scope="external"><?ditaot usertext?>meet.google.com</xref>)
+        to  decide which tool is best for your needs. Google Hangouts Meet is the simplest tool and
+        interface for online meetings, but Zoom offers many additional features. </shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+               
+                <simpletable class="- topic/simpletable " frame="all" id="unique_3_Connect_42_simpletable_fzt_bcf_fzb" nd:nd-id="simpletable_fzt_bcf_fzb" relcolwidth="1* 1* 1*">
+                    <sthead class="- topic/sthead ">
+                        <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1"/>
+                        <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">Zoom</stentry>
+                        <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="1">Google Hangouts </stentry>
+                    </sthead>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2"><b class="+ topic/ph hi-d/b ">Recording Capability</b></stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">Yes</stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="2">Yes</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3"><b class="+ topic/ph hi-d/b ">Screen Sharing</b></stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">More than one at a time</stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="3">Only one at a time</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4"><b class="+ topic/ph hi-d/b ">Accessibility</b></stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">Automatic live transcription</stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="4">Automatic captioning</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5"><b class="+ topic/ph hi-d/b ">Max # of participants</b></stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">Up to 300 in <b class="+ topic/ph hi-d/b ">meetings</b>; 1000 in <b class="+ topic/ph hi-d/b ">webinars</b></stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="5">Up to 100</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6"><b class="+ topic/ph hi-d/b ">Hosting Permissions</b></stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">All faculty, staff, and students can host <b class="+ topic/ph hi-d/b ">meetings</b>; only
+                            faculty and staff can host <b class="+ topic/ph hi-d/b ">webinars</b></stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="6">Faculty, staff, and students can host a meetings</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="7"><b class="+ topic/ph hi-d/b ">Attendant Permissions</b></stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="7">Anyone with the link</stentry><stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="7">Anyone with the link</stentry></strow>
+                </simpletable>
+        </example>
+     </refbody>
+</reference></concept><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="reference_lcs_wtz_fzb" oid="reference_lcs_wtz_fzb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zoom for Canvas Overview</ph></title>
+    <shortdesc class="- topic/shortdesc ">The Zoom for Canvas Integration allows UMN faculty and staff to use the following
+        Zoom features within Canvas.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <ul class="- topic/ul " id="unique_4_Connect_42_ul_ert_j5z_fzb" nd:nd-id="ul_ert_j5z_fzb">
+                <li class="- topic/li ">Schedule Zoom meetings</li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">List upcoming Zoom meetings</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">Join Zoom meetings</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">Create Calendar events for Zoom meetings</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">Create Canvas Conversations about Zoom meetings</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">Record Zoom meetings to the cloud (for non-HCC account holders only)</p>
+                </li>
+            </ul>
+        </example>
+    </refbody>
+<task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="Adding_Zoom_to_Canvas_Courses" oid="Adding_Zoom_to_Canvas_Courses" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Adding Zoom to Canvas Courses</ph></title>
+    <shortdesc class="- topic/shortdesc ">Follow these steps to add the Zoom integration to each Canvas course you want to use
+        with Zoom.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Log into <xref class="- topic/xref " format="html" href="http://canvas.umn.edu" scope="external"><?ditaot usertext?>zoom.umn.edu</xref></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the same browser, log into <xref class="- topic/xref " format="html" href="http://canvas.umn.edu" scope="external"><?ditaot usertext?>canvas.umn.edu</xref></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the course you would like to add Zoom to.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the course navigation menu on the left-hand side of the screen, select
+                        <b class="+ topic/ph hi-d/b ">Settings</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the <b class="+ topic/ph hi-d/b ">Navigation</b> tab.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the list of menu options, select the correct instance of Zoom for your
+                    account: </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_5_Connect_42_ul_wnz_bjd_fzb" nd:nd-id="ul_wnz_bjd_fzb">
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Zoom</b> if you are NOT in the HCC.</li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Zoom for BAA</b> if you are in the HCC</p>
+                            <ul class="- topic/ul " id="unique_5_Connect_42_ul_mcd_gjd_fzb" nd:nd-id="ul_mcd_gjd_fzb">
+                                <li class="- topic/li ">
+                                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">NOTE:</b> Students whose BAA status differs from the
+                                        instructor's will not be able to use the Zoom integration in
+                                        Canvas for that particular course. We therefore recommend
+                                        posting the class Zoom meeting link in a public area of the
+                                        Canvas course in addition to scheduling a meeting directly
+                                        within the Zoom integration in Canvas to accommodate the
+                                        students with a different BAA status.</p>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <b class="+ topic/ph hi-d/b ">Settings</b> icon.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul ">
+                        <li class="- topic/li "> Select Enable to move Zoom into your Navigation menu.  <image class="- topic/image " dita-ot:image-width="482" dita-ot:image-height="178" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/adding_zoom_step_7.png" id="unique_5_Connect_42_image_zmk_lbq_hzb" nd:nd-id="image_zmk_lbq_hzb" placement="inline"/>
+                        </li>
+                      
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">At the bottom of the page, select <b class="+ topic/ph hi-d/b ">Save</b>. <i class="+ topic/ph hi-d/i ">Zoom now appears in the
+                        course navigation menu.</i><image class="- topic/image " dita-ot:image-width="450" dita-ot:image-height="221" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/Adding_Zoom_step_8.png" id="unique_5_Connect_42_image_fj1_tjf_3zb" nd:nd-id="image_fj1_tjf_3zb" placement="inline"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">When you access Zoom for the first time through the course navigation menu, you
+                    will need to select the <b class="+ topic/ph hi-d/b ">Authorize</b> option in order to proceed.</cmd>
+            </step>
+        </steps>
+       
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Hosting a Zoom Meeting Within Canvas</ph></title>
+    <shortdesc class="- topic/shortdesc ">Follow these steps as an instructor in order to host a Zoom meeting within a Canvas course.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">After adding Zoom to a course, you can access the Zoom tool from the course
+            navigation menu. Then you can schedule a meeting.<note class="- topic/note ">You must have instructor access
+                to Canvas in order to create or host your own meetings; students do not have access
+                to this feature.</note></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Zoom</b> from the left-hand course navigation menu.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <b class="+ topic/ph hi-d/b ">Schedule a New Meeting</b>. </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_6_Connect_42_ul_lvn_sc2_fzb" nd:nd-id="ul_lvn_sc2_fzb">
+                        <li class="- topic/li ">Follow the same steps to <xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/zoom-schedule-meeting-invite-others-join" scope="external"><?ditaot usertext?>schedule a single Zoom meeting</xref>
+                            that you would use outside of Canvas.</li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">To schedule a recurring meeting, select the <b class="+ topic/ph hi-d/b ">Recurring Meeting</b> checkbox.
+                    You are able to set the following features:</cmd>
+                <info class="- topic/itemgroup task/info "><ul class="- topic/ul " id="unique_6_Connect_42_ul_tch_dd2_fzb" nd:nd-id="ul_tch_dd2_fzb">
+                        <li class="- topic/li ">How often the meeting recurs</li>
+                        <li class="- topic/li ">How many sessions, or occurrences, the meeting will have</li>
+                        <li class="- topic/li "> The date of the final occurrence </li>
+                    </ul>
+                    <image class="- topic/image " dita-ot:image-width="400" dita-ot:image-height="268" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/hosting_a_meeting_step_3.png" id="unique_6_Connect_42_image_pdx_zbq_hzb" nd:nd-id="image_pdx_zbq_hzb" placement="inline"/>
+                    <note class="- topic/note " id="unique_6_Connect_42_note_zh1_m2z_fzb" nd:nd-id="note_zh1_m2z_fzb" type="notice">When you schedule a recurring meeting,
+                        each occurrence creates as an independent event. This means that if you need
+                        to modify all instances of a meeting, you must edit each event
+                        individually.</note>
+                </info>
+            </step>         
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="Creating_Meeting_Breakout_Rooms" oid="Creating_Meeting_Breakout_Rooms" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Creating Meeting Breakout Rooms</ph></title>
+    <shortdesc class="- topic/shortdesc ">Follow these instructions to use the breakout rooms feature in Zoom.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Breakout rooms allow you to split your Zoom meeting into separate sessions. The
+                meeting host or co-host can split the participants of the meeting into these
+                separate sessions automatically or manually, or they can allow participants to
+                select and enter breakout sessions as they please. <note class="- topic/note " id="unique_7_Connect_42_note_zgp_bf2_fzb" nd:nd-id="note_zgp_bf2_fzb">The
+                    Zoom for Canvas Integration does not allow faculty and staff to create breakout
+                    rooms before the Zoom meeting within Canvas.</note></p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Start your scheduled meeting.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <b class="+ topic/ph hi-d/b ">Breakout Rooms Icon</b>: <image class="- topic/image " dita-ot:image-width="29" dita-ot:image-height="30" href="file:/C:/Users/amari/OneDrive/GitHub/tc3/images/creating_breakout_step_2.png" id="unique_7_Connect_42_image_lt5_hbq_hzb" nd:nd-id="image_lt5_hbq_hzb" placement="inline"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the number of rooms you would like to create, and how you would like to
+                    assign your participants to those rooms:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_7_Connect_42_ul_vjz_kqz_fzb" nd:nd-id="ul_vjz_kqz_fzb">
+                        <li class="- topic/li ">
+                            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Assign Automatically: </b>Let Zoom split your participants up
+                                evenly into each of the rooms.</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Assign manually</b>: Choose which participants you would like in
+                                each room.</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Let participants choose room</b>: <xref class="- topic/xref " format="html" href="https://support.zoom.us/hc/en-us/articles/115005769646" scope="external"><?ditaot usertext?>Participants can select and enter
+                                    rooms</xref> on their own. </p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Load pre-assigned rooms</b>: Choose from pre-assignments or <xref class="- topic/xref " format="html" href="https://support.zoom.us/hc/en-us/articles/206476313#h_01FYFEGX4RFTH0WCM92SW9KD0P" scope="external"><?ditaot usertext?>previously saved
+                                    assignments</xref>. </p>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <b class="+ topic/ph hi-d/b ">Create</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Manage the rooms prior to starting them by clicking <b class="+ topic/ph hi-d/b ">Options </b>(on
+                    Windows) or the <b class="+ topic/ph hi-d/b ">gear icon</b> (on macOS) to view additional breakout room
+                    options (your rooms will be created, but will not start automatically).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click<b class="+ topic/ph hi-d/b ">Open All Rooms</b> to start the breakout rooms.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links class="- topic/related-links ">
+      
+       <link class="- topic/link " format="html" href="https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms" scope="external"><?ditaot usertext?><linktext class="- topic/linktext ">Enabling Meeting Breakout Rooms</linktext></link>
+    </related-links>
+</task></reference></map>

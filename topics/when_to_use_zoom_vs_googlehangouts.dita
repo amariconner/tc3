@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="when_to_use_zoom_vs_googlehangouts">
+    <title>When to Use Zoom vs Google Hangouts Meet</title>
+    <shortdesc>Compare the best use practices for Zoom and Google Hangouts Meet to decide when to use each tool.</shortdesc>
+    <refbody>
+        <example>
+            <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_jln_1y2_fzb">
+                <sthead>
+                    <stentry>Zoom</stentry>
+                    <stentry>Google Hangouts</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Professional meetings and interviews that you want
+                        recorded</stentry>
+                    <stentry>Smaller/informal meetings</stentry>
+                </strow>
+                <strow>
+                    <stentry>Webinars</stentry>
+                    <stentry>One-on-one meetings or interviews</stentry>
+                </strow>
+                <strow>
+                    <stentry>Large meetings</stentry>
+                    <stentry>-</stentry>
+                </strow>
+            </simpletable>
+        </example>
+    </refbody>
+</reference>

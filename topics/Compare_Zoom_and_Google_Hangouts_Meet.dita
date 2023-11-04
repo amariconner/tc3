@@ -1,47 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_jlc_wh2_fzb">
-    <title>When to Use Zoom vs Google Hangouts Meet</title>
+    <title>Features of Zoom and Google Hangouts Meet</title>
     <shortdesc>Compare the features of Zoom (<xref href="https://umn.zoom.us/" format="html"
             scope="external">umn.zoom.us</xref>) and Google Hangouts Meet (<xref
             href="https://meet.google.com/" format="html" scope="external">meet.google.com</xref>)
-        to help you decide which tool is best for your needs. Google Hangouts Meet is the simplest
-        tool and interface for online meetings, but Zoom offers many additional features. </shortdesc>
+        to  decide which tool is best for your needs. Google Hangouts Meet is the simplest tool and
+        interface for online meetings, but Zoom offers many additional features. </shortdesc>
     <refbody>
-        <section>
-            <title>Best Use Practices for Zoom and Google Hangouts Meet</title>
-        </section>
-        <example>
-                <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_jln_1y2_fzb">
-                    <sthead>
-                        <stentry>Zoom</stentry>
-                        <stentry>Google Hangouts</stentry>
-                    </sthead>
-                    <strow>
-                        <stentry>Professional meetings and interviews that you want
-                            recorded</stentry>
-                        <stentry>smaller/informal meetings</stentry>
-                    </strow>
-                    <strow>
-                        <stentry>Hosting webinars</stentry>
-                        <stentry>One-on-one meetings or interviews</stentry>
-                    </strow>
-                    <strow>
-                        <stentry>Large meetings</stentry>
-                        <stentry>-</stentry>
-                    </strow>
-                </simpletable>
-        </example>
-        <section>
-            <title>Features of Zoom and Google Hangouts Meet</title>
-        </section>       
         <example>
                
                 <simpletable frame="all" relcolwidth="1* 1* 1*" id="simpletable_fzt_bcf_fzb">
                     <sthead>
                         <stentry/>
                         <stentry>Zoom</stentry>
-                        <stentry>Google Hangouts</stentry>
+                        <stentry>Google Hangouts </stentry>
                     </sthead>
                     <strow>
                         <stentry><b>Recording Capability</b></stentry>
